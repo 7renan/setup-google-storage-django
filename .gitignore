@@ -1,0 +1,9 @@
+.venv
+*.pyc
+__pycache__
+*sqlite3
+.idea
+.vscode
+.env
+psychic-bliss-314601-a9186e8939f8.json
+
